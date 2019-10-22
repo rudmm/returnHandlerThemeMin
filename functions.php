@@ -12,6 +12,7 @@ function add_styles(){
     wp_enqueue_style('Montserrat', get_template_directory_uri() . '/assets/fonts/Montserrat/stylesheet.css');
     wp_enqueue_style('Lato', get_template_directory_uri() . '/assets/fonts/Lato/lato.css');
     wp_enqueue_style('Helventica Neue', get_template_directory_uri() . '/assets/fonts/Helventica Neue/stylesheet.css');
+    wp_enqueue_style('Paralucent', get_template_directory_uri() . '/assets/fonts/new/stylesheet.css');
 	wp_enqueue_style('Bootstrao-grid', get_template_directory_uri() . '/assets/css/bootstrap-grid.css');
 	
 }
